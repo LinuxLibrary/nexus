@@ -1,0 +1,6 @@
+2017-12-01 07:06:25,002+0000 INFO  [quartz-3-thread-1]  *SYSTEM org.sonatype.nexus.repository.storage.RebuildAssetUploadMetadataTask - Task information:
+2017-12-01 07:06:25,029+0000 INFO  [quartz-3-thread-1]  *SYSTEM org.sonatype.nexus.repository.storage.RebuildAssetUploadMetadataTask -  ID: 2181b2c4-418d-4433-9bd1-500011b69c15
+2017-12-01 07:06:25,029+0000 INFO  [quartz-3-thread-1]  *SYSTEM org.sonatype.nexus.repository.storage.RebuildAssetUploadMetadataTask -  Type: rebuild.asset.uploadMetadata
+2017-12-01 07:06:25,029+0000 INFO  [quartz-3-thread-1]  *SYSTEM org.sonatype.nexus.repository.storage.RebuildAssetUploadMetadataTask -  Name: Rebuild asset upload metadata
+2017-12-01 07:06:25,029+0000 INFO  [quartz-3-thread-1]  *SYSTEM org.sonatype.nexus.repository.storage.RebuildAssetUploadMetadataTask -  Description: Rebuild asset upload metadata
+2017-12-01 07:06:25,050+0000 INFO  [quartz-3-thread-1]  *SYSTEM org.sonatype.nexus.repository.storage.RebuildAssetUploadMetadataTask - Task complete

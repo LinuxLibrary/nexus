@@ -1,0 +1,19 @@
+™”ϊ―λώ+SYSTEMCONFIG"$
+date2017-11-24 09:46:38.228+0000"
+actionCONFIG"H
+message=Registered repository group Public Repositories (ID=public) .ξΆώ―λώ+SYSTEMREINDEX"$
+date2017-11-24 09:46:38.751+0000"
+actionREINDEX"
+messageUpdating repository index "Public Repositories" from path null and below. : Process started on Fri Nov 24 09:46:38 UTC 2017, not yet finished.}Ή‚°λώ+SYSTEMBOOT"$
+date2017-11-24 09:46:39.289+0000"
+actionBOOT"0
+message%Started Nexus (version 2.14.5-02 OSS)’Βƒ°λώ+SYSTEMREINDEX"$
+date2017-11-24 09:46:39.426+0000"
+actionREINDEX"Ύ
+message²Updating repository index "Public Repositories" from path null and below. : Process started on Fri Nov 24 09:46:38 UTC 2017, finished successfully on Fri Nov 24 09:46:39 UTC 2017±υƒ°λώ+SYSTEMCONFIG"$
+date2017-11-24 09:46:39.477+0000"
+actionCONFIG"`
+messageUNexus server configuration was changed: [Scheduled Tasks], change was made by [*TASK]¤°»²λώ+AUTHC_AUTHZAUTHC"$
+date2017-11-24 09:47:19.343+0000"
+actionAUTHC"P
+messageESuccessfully authenticated user [admin] from IP address 115.248.5.193

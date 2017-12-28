@@ -1,0 +1,22 @@
+}ï©ïØù+SYSTEMBOOT"$
+date2017-11-08 10:10:13.359+0000"
+actionBOOT"0
+message%Started Nexus (version 2.14.5-02 OSS)¤°”üØù+AUTHC_AUTHZAUTHC"$
+date2017-11-08 10:13:43.587+0000"
+actionAUTHC"P
+messageESuccessfully authenticated user [admin] from IP address 43.225.26.226¤Ã™ºÙù+AUTHC_AUTHZAUTHC"$
+date2017-11-08 10:30:40.067+0000"
+actionAUTHC"P
+messageESuccessfully authenticated user [admin] from IP address 43.225.26.226›ÑÆÙù+SYSTEMCONFIG"$
+date2017-11-08 10:33:53.617+0000"
+actionCONFIG"J
+message?Registered repository devops (ID=devops)  as hosted repository.©÷ó¯Úù+SYSTEMCONFIG"$
+date2017-11-08 11:02:48.567+0000"
+actionCONFIG"X
+messageMRegistered repository spring-sample (ID=spring-sample)  as hosted repository.¤»ÁÚù+AUTHC_AUTHZAUTHC"$
+date2017-11-08 11:07:32.538+0000"
+actionAUTHC"P
+messageESuccessfully authenticated user [admin] from IP address 43.225.26.226~ÀÿÚù+SYSTEMBOOT"$
+date2017-11-08 11:24:32.640+0000"
+actionBOOT"1
+message&Stopping Nexus (version 2.14.5-02 OSS)
